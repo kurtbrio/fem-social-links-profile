@@ -5,7 +5,7 @@ const Page = () => {
     <div className="font-primary text-sm bg-grey-800 text-white text-center py-6 px-6 rounded-lg">
       <div className="flex flex-col items-center">
         <div className="rounded-full overflow-hidden w-16 mb-6">
-          <img src="/avatar-jessica.jpeg" alt="Jessica" />
+          <img src="avatar-jessica.jpeg" alt="Jessica" />
         </div>
         <h1 className="text-2xl font-semibold mb-1">Jessica Randall</h1>
         <h2 className="text-green text-">London, United Kingdom</h2>
